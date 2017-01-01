@@ -6,8 +6,8 @@ Description: A tool for bootstrapping new packages with useful defaults,
     tests, checking test coverage, building vignettes, and more. Package
     skeletons it creates are set up for pushing your package to
     'GitHub' and using other hosted services for building and test automation.
-Version: 1.0.0
-Date: 2016-12-29
+Version: 1.0.2
+Date: 2017-01-01
 Authors@R: c(person("Neal", "Richardson", role = c("aut", "cre"),
     email = "neal.p.richardson@gmail.com"))
 Author: Neal Richardson [aut, cre]
@@ -19,6 +19,6 @@ Depends: R (>= 3.0.0)
 Suggests: testthat
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-12-29 19:45:18 UTC; npr
+Packaged: 2017-01-01 15:59:11 UTC; npr
 Repository: CRAN
-Date/Publication: 2016-12-30 10:12:34
+Date/Publication: 2017-01-01 23:21:10

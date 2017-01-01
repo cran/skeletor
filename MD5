@@ -1,7 +1,7 @@
-3e14b1cd2ad925ae1f1bf9a4bc2fd645 *DESCRIPTION
+2c1588907e79f5b8ff01bf19f1c309ee *DESCRIPTION
 d322d0a070dde35011da6f246613723c *LICENSE
 81813a384ccfe10ac6b05e6905597bc1 *NAMESPACE
-7e9ade0e60875f4c6b2c4c4c89ab306a *NEWS.md
+14c27221110ac6b23c3ccd7342a83032 *NEWS.md
 3c68fd6d9802bbbd5a67ea5d210d7b91 *R/configure.R
 029e758f5622a2bc7c8ebab04d8ca018 *R/skeletor.R
 cd5c4c84718b30f6859ef178f0177b6b *README.md
@@ -19,11 +19,11 @@ a13a6fb7f86993876708ddc9b2b05c86 *inst/pkg/appveyor.yml
 43d820e58ec66ccd1dd2d4ed5bebea1b *inst/pkg/tests/testthat.R
 4812dac84fd53d917524e29822458400 *inst/pkg/tests/testthat/helper.R
 47b4f157bb34801afbcc1cb9c9b4fb90 *inst/pkg/tests/testthat/test-something.R
-dc63261813371b28845e5881c46c21f1 *inst/pkg/travis.yml
+2b762f831209dac895e2b4563327ea1e *inst/pkg/travis.yml
 380588ff387179fa29684f7e8cee7c68 *man/configure.Rd
 71bd1e01de7bfb42a95eac5ea2d9d117 *man/skeletor.Rd
 ea7cbbb99ea7e505b404a3a0e42a44ea *tests/testthat.R
-4936f7c162bbbbc604c9ef35d76a36df *tests/testthat/helper.R
+d711e55ed09f6cc2550657c52668bbd9 *tests/testthat/helper.R
 1ee3dd18a3b426a204ca4d124f04fe82 *tests/testthat/test-configure.R
-5f4076723e6a0fb58c3389fcc7e1a3a9 *tests/testthat/test-skeletor-clean.R
-0ae6e844e50951b4d3359a62c8ce4270 *tests/testthat/test-skeletor-conf.R
+d1dac0350d865c5b209fe0e5105d78ba *tests/testthat/test-skeletor-clean.R
+4792299c62d06b41bb3bdeff7aaef1f1 *tests/testthat/test-skeletor-conf.R
