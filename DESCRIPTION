@@ -6,8 +6,8 @@ Description: A tool for bootstrapping new packages with useful defaults,
     tests, checking test coverage, building vignettes, and more. Package
     skeletons it creates are set up for pushing your package to
     'GitHub' and using other hosted services for building and test automation.
-Version: 1.0.2
-Date: 2017-01-01
+Version: 1.0.4
+Date: 2017-04-09
 Authors@R: c(person("Neal", "Richardson", role = c("aut", "cre"),
     email = "neal.p.richardson@gmail.com"))
 Author: Neal Richardson [aut, cre]
@@ -16,9 +16,9 @@ URL: https://github.com/nealrichardson/skeletor
 BugReports: https://github.com/nealrichardson/skeletor/issues
 License: MIT + file LICENSE
 Depends: R (>= 3.0.0)
-Suggests: testthat
-RoxygenNote: 5.0.1
+Suggests: covr, testthat
+RoxygenNote: 6.0.0
 NeedsCompilation: no
-Packaged: 2017-01-01 15:59:11 UTC; npr
+Packaged: 2017-04-09 20:59:05 UTC; neal.richardson
 Repository: CRAN
-Date/Publication: 2017-01-01 23:21:10
+Date/Publication: 2017-04-09 21:12:13 UTC
